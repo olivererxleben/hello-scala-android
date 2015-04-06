@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menuTitles">
+        <item>MenuItem</item>
+        <item>MenuItem 2</item>
+        <item>MenuItem 3</item>
+        <item>MenuItem 4</item>
+        <item>MenuItem 5</item>
+    </string-array>
+</resources>
